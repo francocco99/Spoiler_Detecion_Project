@@ -1,0 +1,17 @@
+jupyter
+pandas
+transformers
+transformers[torch]
+tensorflow
+tensorflow_datasets
+datasets
+numpy
+scikit-learn
+nltk
+matplotlib
+pandarallel
+regex
+spacy_sentence_bert
+
+
+
