@@ -6,4 +6,5 @@ This is a project for the Human Language Technology 2023/2024 course. This proje
 ## Implementation
 The idea is to use different language models to classify the reviews. We start from a **baseline** using simple models like Logistic Regression and Naive Bayes, and gradually move to more complex models like LLama3. A more detailed description of the work is in the **PDF**.
 This project is being made in group:
-* 
+* [Francesco Botrugno](https://github.com/FranBot97)
+* [Agnese Camici](https://github.com/agnesecam)
